@@ -1,0 +1,5 @@
+#summary Notes on how to use and build version 1.0 of the MGPCG Poisson solver.
+
+= Introduction =
+
+I will be writing up some instructions and other thoughts about this project here.  Please check back often!
